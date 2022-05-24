@@ -1,13 +1,15 @@
-## 👋 StoryPRO
+## 👋 Welcome
+StoryPRO is an interactive marketing platform.
 
 
-#### 🔭 &nbsp;Projects We Support
-- [EvoX](https://github.com/realstorypro/evox) - CLI Songbook Generator.
-- [Language Accelerator](https://github.com/realstorypro/language-accelerator) - A set of Ruby scripts to help with language acquisition.
+#### 🔭 &nbsp;Our OSS Projects
 - [Rapid UI](https://github.com/realstorypro/rapid-ui) - A Ruby a modern Ruby framework that addresses linguistic complexity of designing user interfaces.
 - [LaunchBeat](https://github.com/realstorypro/launch-beat) - An online tool helping new musicians make music fast by leveraging the similarity between computer keyboards and grid controllers.
+- [EvoX](https://github.com/realstorypro/evox) - CLI Songbook Generator.
+- [Language Accelerator](https://github.com/realstorypro/language-accelerator) - A set of Ruby scripts to help with language acquisition.
 
-
+#### 👍 &nbsp;Projects We Support
+- [basicScroll](https://github.com/electerious/basicScroll) - Standalone parallax scrolling for mobile and desktop with CSS variables.
 
 <!--
 
