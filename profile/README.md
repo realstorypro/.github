@@ -9,8 +9,8 @@ StoryPRO is a low-code marketing platform.
 - [Language Accelerator](https://github.com/realstorypro/language-accelerator) - A set of Ruby scripts to help with language acquisition.
 
 #### 👍 &nbsp;Projects We Support
-- [basicScroll](https://github.com/electerious/basicScroll) - Standalone parallax scrolling for mobile and desktop with CSS variables.
-
+- [BasicScroll](https://github.com/electerious/basicScroll) - Declarative animations for mobile and desktop with CSS variables.
+- [Fomantic-UI](https://github.com/fomantic/Fomantic-UI) - High-performance, intuitive css framework.
 <!--
 
 **Here are some ideas to get you started:**
