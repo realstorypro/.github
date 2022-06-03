@@ -1,5 +1,5 @@
 ## 👋 Welcome
-StoryPRO is an interactive marketing platform.
+StoryPRO is a low-code marketing platform.
 
 
 #### 🔭 &nbsp;Our OSS Projects
