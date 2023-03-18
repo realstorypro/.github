@@ -3,6 +3,7 @@
 
 
 #### 🔭 &nbsp;Our OSS Projects
+- [The Media DAO](https://github.com/realstorypro/the-media-dao) - The web3 token powered media business-in-a-box.
 - [Rapid UI](https://github.com/realstorypro/rapid-ui) - A Ruby a modern Ruby framework that addresses linguistic complexity of designing user interfaces.
 - [LaunchBEAT](https://github.com/realstorypro/launch-beat) - An online tool helping new musicians learn music fast by leveraging the similarity between computer keyboards and grid controllers.
 - [EvoX](https://github.com/realstorypro/evox) - CLI Songbook Generator.
