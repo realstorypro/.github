@@ -3,7 +3,7 @@
 
 
 #### 🔭 &nbsp;Our OSS Projects
-- [QuasarAI](https://github.com/realstorypro/QuasarAI) - Collaborative Artificial Super Intelligence (CASI) News Publishing Platform.
+- [QuasarAI](https://github.com/realstorypro/QuasarAI) - An Open-Source, AI-Driven Content Marketing Platform, Powered by Ruby on Rails, Midjourney, and ChatGPT.
 - [The Media DAO](https://github.com/realstorypro/the-media-dao) - The web3 token powered media business-in-a-box.
 - [Rapid UI](https://github.com/realstorypro/rapid-ui) - A Ruby a modern Ruby framework that addresses linguistic complexity of designing user interfaces.
 - [LaunchBEAT](https://github.com/realstorypro/launch-beat) - An online tool helping new musicians learn music fast by leveraging the similarity between computer keyboards and grid controllers.
